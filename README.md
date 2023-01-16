@@ -1,5 +1,5 @@
 # Space-Chat
-SpaceChat is a SAAS product which provides WhatsApp Business API Solutions for free and at afordable price also.
+SpaceChat is a SAAS product which provides WhatsApp Business API Solutions for free and at affordable price.
 
 WebApp Url : https://spacechat.in/
 
