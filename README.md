@@ -52,4 +52,27 @@ FEATURES OF SPACECHAT:
 
 Project ScreenShots:
 1. Login Page
-![Login Page](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/login.png)
+![Login Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/login.png)
+
+2. Signup Page
+![Signup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/singup.png)
+
+3. Connect Shopify Page
+  User had to provide their Shopify credentials in the input box. Have provide video guide as well as written guide on how they can get those credentials.
+![Connect Shopify Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/setup.png)
+
+4. Discover Templates
+  When users starts using the platform they have to take template approval. So, on this page they can explore realted predefined template content desingned by us. We save their time and cost.
+ ![Discover Template Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/discover%20templates.png)
+ 
+5. Your Templates Page
+  All templates assciated with their WhatsApp business account will be seen here. Just tapping on sync will update the templates on SpaceChat platoform.
+ ![Your Templates page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Your%20Templates.png)
+ 
+6. Shopify Automation  Setup Page
+  User can setup which automation to turn on and confugure them from this page.
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+7. Integration Page
+  User can check the status of Integration and configure them as well.
+![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Integration.png)
