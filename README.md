@@ -78,5 +78,6 @@ Project ScreenShots:
  ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
 
 7. Integration Page
+
   User can check the status of Integration and configure them as well.
 ![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Integration.png)
