@@ -1,8 +1,8 @@
 # Space-Chat
+SpaceChat is a SAAS product which provides WhatsApp Business API Solutions for free and at affordable price.
 
-WebApp Url : https://spacechat.in/
-
-SpaceChat is a SAAS product which provides WhatsApp Business API Solutions at afordable price also.
+Website : https://spacechat.in/
+WebApp Url : https://app.spacechat.in/
 
 To understand why I started this project, Lets understand what products does WhatsApp has:
 WhatsApp Products:
@@ -81,23 +81,8 @@ Project ScreenShots:
 
   User can setup which automation to turn on and configure them from this page.
  ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
- 
-8. Customers
 
-  All customer details.
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
-
-9. Gallery
-
-  User can upload a media and get its url or Media id which is used to send template message and can check all the media received from customers.
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
-
-10. Setup WhatsApp
-
-  User can configure their WhatsApp credentials
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
-
-11. Integration Page
+7. Integration Page
   User can check the status of Integration and configure them as well.
 ![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Integration.png)
 
@@ -120,8 +105,3 @@ Project ScreenShots:
 15. Billing
 
  ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
-
-
-
-
-
