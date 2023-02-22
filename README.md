@@ -52,56 +52,72 @@ FEATURES OF SPACECHAT:
 
 Project ScreenShots:
 1. Login Page
-![Login Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/login.png)
+![Login Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/1.%20login.png)
 
 2. Signup Page
-![Signup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/singup.png)
+![Signup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/2.%20singup.png)
 
 3. Setup guide
 
   User get a step by step guide on how to get started on Spacechat
-![Connect Shopify Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/setup.png)
+![Connect Shopify Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/3.%20setup.png)
 
 4. Discover Templates
 
   When users starts using the platform they have to take template approval. So, on this page they can explore industry related predefined template content desingned by us. We save their time and cost.
- ![Discover Template Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/discover%20templates.png)
+ ![Discover Template Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/4.%20discover%20templates.png)
  
 5. Your Templates Page
 
   All templates assciated with their WhatsApp business account will be seen here. Just tapping on sync will update the templates on SpaceChat platoform.
- ![Your Templates page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Your%20Templates.png)
+ ![Your Templates page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/5.%20Your%20Templates.png)
 
 6. Dashboard
 
   Customer can track all usage details.
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/6.%20dashboard.png)
  
 7. Shopify Automation  Setup Page
 
   User can setup which automation to turn on and configure them from this page.
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/7.%20shopify.png)
 
-7. Integration Page
-  User can check the status of Integration and configure them as well.
-![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Integration.png)
+8. Customers
+  
+  Users all customer details at one place
+![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/8.%20customers.png)
+
+9. Gallery
+  
+  User can upload a media file to get the media url or media id which is used to send template and User can check all media files received from their customer in incoming section.
+![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/9.%20gallery.png)
+
+10. Setup WhatsApp
+  
+  Users can configure their WhatsApp credentials.
+![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/10.%20setup_whatsapp.png)
+
+11. Integration
+  
+  
+![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/11.%20Integrations.png)
 
 
 12. Setup Shopify
 
   User can configure their Shopify credentials
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/12.%20setup_shopify.png)
 
 13. Profile
 
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/13.%20profile.png)
 
 
 14. Support
 
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/14.%20support.png)
 
 
 15. Billing
 
- ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/15.%20billing.png)
