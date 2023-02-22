@@ -2,7 +2,7 @@
 
 WebApp Url : https://spacechat.in/
 
-SpaceChat is a SAAS product which provides WhatsApp Business API Solutions for free and at afordable price also.
+SpaceChat is a SAAS product which provides WhatsApp Business API Solutions at afordable price also.
 
 To understand why I started this project, Lets understand what products does WhatsApp has:
 WhatsApp Products:
@@ -57,9 +57,9 @@ Project ScreenShots:
 2. Signup Page
 ![Signup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/singup.png)
 
-3. Connect Shopify Page
+3. Setup guide
 
-  User have to provide their Shopify credentials in the input box. Have provide video guide as well as written guide on how they can get those credentials.
+  User get a step by step guide on how to get started on Spacechat
 ![Connect Shopify Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/setup.png)
 
 4. Discover Templates
@@ -71,12 +71,57 @@ Project ScreenShots:
 
   All templates assciated with their WhatsApp business account will be seen here. Just tapping on sync will update the templates on SpaceChat platoform.
  ![Your Templates page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Your%20Templates.png)
+
+6. Dashboard
+
+  Customer can track all usage details.
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
  
-6. Shopify Automation  Setup Page
+7. Shopify Automation  Setup Page
 
   User can setup which automation to turn on and configure them from this page.
  ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+ 
+8. Customers
 
-7. Integration Page
+  All customer details.
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+9. Gallery
+
+  User can upload a media and get its url or Media id which is used to send template message and can check all the media received from customers.
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+10. Setup WhatsApp
+
+  User can configure their WhatsApp credentials
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+11. Integration Page
   User can check the status of Integration and configure them as well.
 ![Integration page screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/Integration.png)
+
+
+12. Setup Shopify
+
+  User can configure their Shopify credentials
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+13. Profile
+
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+
+14. Support
+
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+
+15. Billing
+
+ ![Shopify Automation  Setup Page Screenshot](https://github.com/gshubham533/Space-Chat/blob/main/screenshots/shopify.png)
+
+
+
+
+
